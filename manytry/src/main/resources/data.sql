@@ -1,0 +1,18 @@
+insert into fournisseur values (1,'Delice','yaourt former')
+
+--insert into fournisseur values (6,'Delice','yaourt former')
+
+insert into fournisseur values (2,'Vitalait','yaourt former')
+insert into fournisseur values (3,'Candia','yaourt former')
+insert into fournisseur values (4,'Yogo','yaourt former')
+insert into fournisseur values (5,'Y"ab','yaourt former')
+insert into fournisseur values (7,'gogo','go')
+insert into article values (1,'yaourt')
+insert into article values (2,'lait')
+insert into article values (3,'Beurre')
+insert into article values (4,'Formage')
+insert into fournisseur_article values (500,1,1)
+insert into fournisseur_article values (450,1,2)
+insert into fournisseur_article values (470,1,3)
+insert into fournisseur_article values (1100,2,1)
+insert into fournisseur_article values (1060,2,4)
